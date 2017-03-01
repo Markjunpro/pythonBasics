@@ -3,6 +3,6 @@ Git is free software distributed under the GPL.
 Git has a mutable index called stage.
 Git tracks changes.
 I'm lijun in wuhan.
-wuhan,diffrent everyday.
+Wuhan,Diffrent Everyday.
 
 
