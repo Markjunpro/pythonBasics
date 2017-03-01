@@ -4,7 +4,7 @@ Git has a mutable index called stage.
 Git tracks changes.
 I'm lijun in wuhan.
 Wuhan,Diffrent Everyday.
-
+Creating a new branch is quick AND featurel.
 
 Creating a new branch is quick 
 
