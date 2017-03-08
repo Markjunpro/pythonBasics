@@ -18,4 +18,17 @@ class Student (object):
 		else:
 			raise ValueError('bad score')
 
+	def get_grade (self):
+		if self>=90:
+			return 'A'
+		elif self>=60:
+			return 'B'
+		else :
+			return 'C'
 
+bart=Student ('Bart Simpson',59)
+print('bart.get_name()=,bart.get_name())
+bart.set_score(60)
+print ('bart.get_score()',bart.get_score())
+
+print (DO NOT use bart._Student__name:,bart._Student__name)
