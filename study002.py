@@ -31,4 +31,4 @@ print('bart.get_name()=,bart.get_name())
 bart.set_score(60)
 print ('bart.get_score()',bart.get_score())
 
-print (DO NOT use bart._Student__name:,bart._Student__name)
+print ('DO NOT use bart._Student__name:',bart._Student__name)
