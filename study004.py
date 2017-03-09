@@ -29,7 +29,12 @@ class Fib(object):
 			return L
 
 f=Fib()
+print('the front 25 integer numbers in Fib():')
+for x in range(25):
+	print (f[x])
+print ('the numbers from o to 5 :')
 print(f[0:5])
+print ('the numbers into 10:')
 print(f[:10])
 
 
