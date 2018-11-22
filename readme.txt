@@ -1,9 +1,0 @@
-Git is a distributed version control system.
-Git is free software distributed under the GPL.
-Git has a mutable index called stage.
-Git tracks changes.
-I'm lijun in wuhan.
-Wuhan,Diffrent Everyday.
-Creating a new branch is quick AND featurel.
-Hust is huazhong univisty of science and technology.
-
