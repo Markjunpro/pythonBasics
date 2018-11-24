@@ -6,7 +6,7 @@ class User(Model):
     id = InterField(primary_key=True)
     name= StringField()
 
-user=User(id = 123,name='lijun')
+user=User(id = 123,name='username')
 user.insert()
 users= User.findAll()
 
